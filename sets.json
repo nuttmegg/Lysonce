@@ -1,0 +1,27 @@
+{
+    "783530393567625216": {
+        "admin": [
+            "Administrator",
+            "Staff"
+        ],
+        "hmod": [
+            "Head Moderator",
+            "Staff"
+        ],
+        "mod": [
+            "Moderator",
+            "Staff"
+        ],
+        "tmod": [
+            "Trial Moderator",
+            "Staff"
+        ],
+        "all": [
+            "Administrator",
+            "Head Moderator",
+            "Moderator",
+            "Trial Moderator",
+            "Staff"
+        ]
+    }
+}
